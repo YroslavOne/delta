@@ -1,0 +1,20 @@
+.positive {
+  background-color: #e6ffe6;
+  color: green;
+  
+}
+
+.negative {
+  background-color: #ffe6e6; 
+  color: red;
+}
+.defaultCell{
+background-color: rgb(215, 215, 246);
+}
+.inlineFlex {
+  width: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
